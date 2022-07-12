@@ -22,7 +22,7 @@ integrated method to improve our prediction results.
 
 ## Dataset
 
-The model has been trained with a dataset having 14 attributes and over 3 million+ data points. 
+The model has been trained with a dataset having 14 attributes and over 300 k+ data points. 
 
 • Price : The Price of the ticket.
 
