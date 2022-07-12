@@ -25,18 +25,31 @@ integrated method to improve our prediction results.
 The model has been trained with a dataset having 14 attributes and over 3 million+ data points. 
 
 • Price : The Price of the ticket.
+
 • departure_time : The time when the journey starts from the city.
+
 • arrival_time : Time of arrival at the destination.
+
 • Airline : The name of the airline.
+
 • Cabin : The section of an aircraft in which passengers travel.
+
 • Dept_city : The departure city means from which the services begin.
+
 • Dept_date : Date of the journey.
+
 • arrival_city : The arrival city means from which the service end.
+
 • stops : Total stops between the departure city and arrival city.
+
 • duration : Total duration of the flight.
+
 • weekday : Day of journey starts.
+
 • dept_hours : The hour when the journey starts from the departure city.
+
 • Dept_flights_time : The season of departure flight.
+
 • optimal_hours : Before departure time buy a minimum flight price.
 
 The model took only six parameters , same as input parameters, for final training as according to feature importance map, only these 6 parameters were found to useful.
