@@ -63,11 +63,16 @@ Deployed Machine learning model(lightGBM) with an accuracy of over 87% for fligh
 It takes six inputs from the user
  
 Cabin - The section of an aircraft in which passengers travel.
+
 Airline -  The name of the airline.
+
 Dept_city - The departure city means from which the services begin.
+
 Dept_date - the date of flight 
+
 arrival_city - The arrival city means from which the service end.
-Dept_hours (the approximate integer/ nearest integer to flight departure timing)
+
+Dept_hours  -  The time when the journey starts from the city.
 
 The output of the model is float point value of flight Price upto 4 decimal places.
 
