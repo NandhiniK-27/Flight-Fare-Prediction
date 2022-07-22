@@ -86,8 +86,7 @@ We used mean_squared_error and mean_absolute_error for final evaluation of the m
 
 **Link to the website**
 
-# https://myflightappprediction.herokuapp.com/
-
+#https://myflightappprediction.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/90173983/178415183-4ba2b6e0-44f3-4ec1-9b12-da2dac38fe12.png)
 
